@@ -2426,7 +2426,15 @@ const taiwaneseDict = {
   "青殼芭樂": "chhinn-khak pa-lô",
   "大溪豆乾": "Tāi-khe tāu-kin",
   "紅麴鴨": "âng-kî ah",
-  "電火湯": "tiān-hué-thng"
+  "電火湯": "tiān-hué-thng",
+  "烏貓湯": "oo-bau-thng",
+  "金針雞": "kim-chim-ke",
+  "米豆粿": "bí-tāu-kué",
+  "花豆麵": "hoa-tāu-mī",
+  "燒冷冰": "sioⁿ-líng-peng",
+  "龍眼乾湯": "liông-gín-kun-thng",
+  "碗粿套餐": "uán-kóe thòan-tshànn",
+  "燒炭火鍋": "sio-tàn-hué-ko͘"
 };
 
 module.exports = taiwaneseDict;
