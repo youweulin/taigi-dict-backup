@@ -2467,7 +2467,13 @@ const taiwaneseDict = {
   "米血": "bí-hueh",
   "乾拌麵": "kan-pàn-mī",
   "炒米粉": "tshá-bí-hún",
-  "炸甜不辣": "tsia̍h-tinn-put-la̍t"
+  "炸甜不辣": "tsia̍h-tinn-put-la̍t",
+  "豆花湯": "tāu-hue-thng",
+  "三色豆": "sam-sik-tāu",
+  "竹筍湯": "tik-sún-thng",
+  "香菜肉": "hiong-chhài-bah",
+  "甜不辣": "tinn-put-la̍t",
+  "滷蛋飯": "ló͘-nn̄g-pn̄g"
 };
 
 module.exports = taiwaneseDict;
