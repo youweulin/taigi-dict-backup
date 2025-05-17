@@ -2437,7 +2437,9 @@ const taiwaneseDict = {
   "燒炭火鍋": "sio-tàn-hué-ko͘",
   "豆皮壽司": "tau-pê sió-si",
   "炸菜魯肉": "tsa̍h tshài ló͘-bah",
-  "阿炳的粥": "A-pêng ê tsu̍h"
+  "阿炳的粥": "A-pêng ê tsu̍h",
+  "香腸": "hiong-siòng",
+  "飯糰": "pn̄g-thn̂g"
 };
 
 module.exports = taiwaneseDict;
