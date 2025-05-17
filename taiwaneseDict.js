@@ -2419,7 +2419,8 @@ const taiwaneseDict = {
   "客運": "kheh-ūn",
   "腳踏車": "kha-thaⁿ-tshia",
   "摩托車": "bá-tó͘-tshia",
-  "水溝": "chúi-kau"
+  "水溝": "chúi-kau",
+  "火爐": "hué-lô"
 };
 
 module.exports = taiwaneseDict;
