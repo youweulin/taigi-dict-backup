@@ -2447,7 +2447,15 @@ const taiwaneseDict = {
   "浮水": "phûi-chúi",
   "黑糖燒餅": "oo-lâng-sio-piánn",
   "浮水魚丸": "phûi-chúi-hîⁿ-nîng",
-  "紅麴米糕": "âng-kî-bí-koe"
+  "紅麴米糕": "âng-kî-bí-koe",
+  "清蒸蝦仁": "chheng-tsing hê-jîn",
+  "醬爆軟絲": "chiùnn-pàu lúi-sai",
+  "鹽水鴨翅": "iâm-tsuí ah-tshih",
+  "高麗菜飯": "ko-lê-tshài-pn̄g",
+  "香菇雞粥": "hiong-ko-ke-tsik",
+  "碳烤玉米": "thàn-kháu-io̍k-bí",
+  "菜脯蛋": "tshài-pó͘-nn̄g",
+  "滷白菜": "ló͘-pe̍h-tshài"
 };
 
 module.exports = taiwaneseDict;
