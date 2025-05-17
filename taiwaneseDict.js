@@ -2434,7 +2434,10 @@ const taiwaneseDict = {
   "燒冷冰": "sioⁿ-líng-peng",
   "龍眼乾湯": "liông-gín-kun-thng",
   "碗粿套餐": "uán-kóe thòan-tshànn",
-  "燒炭火鍋": "sio-tàn-hué-ko͘"
+  "燒炭火鍋": "sio-tàn-hué-ko͘",
+  "豆皮壽司": "tau-pê sió-si",
+  "炸菜魯肉": "tsa̍h tshài ló͘-bah",
+  "阿炳的粥": "A-pêng ê tsu̍h"
 };
 
 module.exports = taiwaneseDict;
