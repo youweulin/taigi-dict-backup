@@ -2420,7 +2420,13 @@ const taiwaneseDict = {
   "腳踏車": "kha-thaⁿ-tshia",
   "摩托車": "bá-tó͘-tshia",
   "水溝": "chúi-kau",
-  "火爐": "hué-lô"
+  "火爐": "hué-lô",
+  "雪豆腐": "seh tāu-hū",
+  "鐵殼杯": "thih-khak-pue",
+  "青殼芭樂": "chhinn-khak pa-lô",
+  "大溪豆乾": "Tāi-khe tāu-kin",
+  "紅麴鴨": "âng-kî ah",
+  "電火湯": "tiān-hué-thng"
 };
 
 module.exports = taiwaneseDict;
